@@ -1,4 +1,4 @@
-# Personal about me
+# Personal about me- Adithya
 
 This is a one-page personal about me website built using HTML, CSS, and JavaScript. It is a simple and clean design, with a focus on showcasing your existing social media following.
 
