@@ -1,0 +1,20 @@
+{
+  "name": "adithya-portfolio",
+  "version": "1.0.0",
+  "description": "Personal portfolio website for Adithya S.T.",
+  "main": "index.html",
+  "scripts": {
+    "build": "echo 'Static site - no build needed' && exit 0",
+    "start": "echo 'Static site ready'",
+    "dev": "echo 'Open index.html in browser'"
+  },
+  "keywords": [
+    "portfolio",
+    "developer",
+    "data-scientist",
+    "web-developer"
+  ],
+  "author": "Adithya S.T.",
+  "license": "MIT",
+  "type": "module"
+}
